@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+//#import joblib
 
 st.title("Shirt Size Prediction")
 st.subheader("Find your perfect fit here!")
